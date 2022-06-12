@@ -1,0 +1,62 @@
+h1{
+    font-style: italic;
+    text-align: center;
+    
+  }
+h2{
+
+    font-style: bold;
+}
+p{ 
+    text-align: center;
+    line-height: 25px;
+}
+ #geral{
+    width:960px;
+    margin:0 auto;
+
+ }
+ #topo{
+     background:lightblue;
+     padding:25px;
+     text-align: center;
+ }
+
+  #menu{
+    margin-left: 250px;
+
+ }
+  #lateral1{
+    background: #a3a9fa;
+    width:175px;
+    height: 600px;
+    padding: 15px;
+    float:left;
+  }
+
+  #lateral2{
+    background: #a3a9fa;
+    width:175px;
+    height:600px;
+    padding: 15px;
+    float:right;
+  }
+
+  #rodape{
+    background-color: lightslategray;
+    padding:30px;
+    text-align:center ;
+    clear:both;
+  }
+  .paragrafo{
+    color: red;
+    text-align: center;
+  }
+  .paragrafo2{
+    color: #0018ff;
+  }
+  .alinhamento{
+      text-align: center;
+  }
+
+  
